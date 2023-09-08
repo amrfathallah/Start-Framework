@@ -1,0 +1,18 @@
+li {
+  padding-inline: 10px;
+}
+
+a {
+  color: #fff !important;
+}
+a:hover {
+  color: #fff !important;
+}
+
+.nav-active {
+  color: #fff;
+  background-color: #1abc9c;
+  border-radius: 5px;
+  width: fit-content;
+  padding-inline: 5px;
+}
